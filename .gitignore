@@ -1,0 +1,5 @@
+# Ignore a specific file
+.clasp.json
+
+# Ignore a directory
+myfolder/
