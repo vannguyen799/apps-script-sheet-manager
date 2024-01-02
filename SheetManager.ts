@@ -1,5 +1,5 @@
-import { Cell } from "./Model/Cell";
-import { VerticalColumn } from "./Model/Column";
+import { Cell } from "./model/Cell";
+import { VerticalColumn } from "./model/Column";
 
 export { SheetManager, SheetManagerSingleton };
 
